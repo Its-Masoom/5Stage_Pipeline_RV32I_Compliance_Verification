@@ -10,7 +10,7 @@ The following types of instructions are supported by this processor:
 > **Note:** RTL folder in this repo contains the design system verilog files for this processor.
 
 
-# Compliance Testing
+## Compliance Testing
 
 Compliance testing is **to check whether the processor under development meets the open RISC-V standards or not**. There are some tests available online that tries to cover the corner cases of all the instructions type listed above. These tests are contributed by open source community and are updated from time to time. In order to call your design to be fully complianced with RISC-V International Standards, one should pass all these tests successfully. These tests are available online by the name riscv-non-isa arch test.
 > **Note:** riscv-arch-test folder in this repo contains the tests that we have passed by our processor.
