@@ -22,4 +22,4 @@ RISCOF framework is used which is a python based framework that enables testing 
 
 ## Result
 
-Using riscof framework generates a report that shows how many tests are passed and how many failed. You can find the report in riscof_work/report.html. As the report is in HTML language so you need to render it for better view if you want to see the result. You can click the [link](https://htmlpreview.github.io/?https://github.com/Its-Masoom/5_Stage_Pipeline_RV32I_Compliance_Verification/blob/main/riscof_work/report.html) to see the rendered report.
+Using riscof framework generates a report that shows how many tests are passed and how many failed. You can find the report in riscof_work/report.html. As the report is in HTML language so you need to render it for better view if you want to see the result or you can click the [link](https://htmlpreview.github.io/?https://github.com/Its-Masoom/5_Stage_Pipeline_RV32I_Compliance_Verification/blob/main/riscof_work/report.html) to see the rendered report.
