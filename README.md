@@ -1,5 +1,5 @@
 # RV32I
-RV32I stands for RISC-V 32 bit Integer Type Processor. It is a basic processor which is designed in accordance to the datapath attached below. 
+RV32I stands for RISC-V 32 bit Integer Type Processor. It is a basic processor in which other extensions i.e M(Multiplication), F(Floating Point) etc can be added.
 The following types of instructions are supported by this processor:
 - R Type (SLL, SLT, SLTU, SRL, SRA, ADD, SUB, XOR, OR, AND)
 - I Type (ADDI, ANDI, ORI, XORI, SLTI, SLTIU, SLLI, SRLI, SRAI, LB, LH, LW, LBU, LHU, JALR)
