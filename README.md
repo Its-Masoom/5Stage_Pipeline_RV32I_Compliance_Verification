@@ -1,1 +1,1 @@
-# 5Stage_Pipeline_RV32I_Compliance_Verification
+# 5_Stage_Pipeline_RV32I_Compliance_Verification
